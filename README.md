@@ -6,7 +6,7 @@ This repository proposes a general line-based SLAM system that combines **points
 **Authors:** Haochen Jiang $^* $, Rui Qian $^* $, Liang Du, Jian Pu and Jianfeng Feng
 
 ## News
-- Start code clean and orginize. Due to the substantial volume of code and the involvement of certain compliance issues, we will progressively release and update it.
+- Start code clean and orginize. Due to the substantial volume of code and the involvement of certain compliance issues, we will progressively release and update it. The current version is not complete.
 
 ##  1. <a name='RelatedPublications:'></a>Related Publications:
 
